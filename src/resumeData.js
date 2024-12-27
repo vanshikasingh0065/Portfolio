@@ -1,6 +1,6 @@
 let resumeData = {
   "imagebaseurl":"https://vanshikasingh.github.io/",
-  "name": "h ",
+  "name": "h h",
   "role": "Software Engineer",
   "linkedinId":"linkedin.com/in/vanshika-singh-mcs",
   "skypeid": "",
